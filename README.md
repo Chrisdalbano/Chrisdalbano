@@ -1,6 +1,4 @@
-## I'm Christian D'Albano
-
-![Profile Picture](https://github.com/chrisdalbano.png)
+### I'm Christian D'Albano
 
 ### 🌐 Web Developer based in Orlando, FL
 
